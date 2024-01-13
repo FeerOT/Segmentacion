@@ -1,2 +1,6 @@
 # Segmentacion
 Proyecto de segmentación de clientes 
+#CONTEXTO
+La tienda El Mercado está en un ambiente altamente competitivo y está experimentando cambios significativos en las preferencias de los consumidores. La fidelidad del cliente se ha vuelto un desafío, y la tienda en cuestión busca mantener y aumentar sus ingresos mediante una mejor comprensión de su base de clientes y la personalización de sus estrategias de marketing y retención.
+La estrategia elegida por la tienda es analizar sus ventas y segmentar su base de clientes mediante la metodología RFM (Cuán reciente, Frecuencia y Valor Monetario). Esta estrategia proporcionará a la empresa una ventaja competitiva clave al brindar un profundo entendimiento del comportamiento de compra de sus clientes y permitirá la toma de decisiones estratégicas basadas en datos.
+Tu objetivo como analista de datos es preparar la base de datos que pone a disposición la empresa para que se pueda aplicar la segmentación de clientes a través de RFM y sacar conclusiones que posibiliten a la empresa a tomar decisiones, además de buscar información importante que se encuentra oculta en los datos, como por ejemplo: ¿Quiénes son estos clientes? ¿Están casados? ¿Tienen hijos? ¿Cuántos años tienen? ¿Cuál es el volumen de ventas de la empresa (en cantidad)?
